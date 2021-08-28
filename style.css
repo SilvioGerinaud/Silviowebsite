@@ -243,3 +243,10 @@ footer {
     padding-left: 10px;
     transition: 1.2s ease;
 }
+@media screen and (max-width:768px) {
+    body {
+        background: blueviolet;
+    }
+    footer {
+        display: none;
+}
